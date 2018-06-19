@@ -11,5 +11,25 @@ div {
 }
 
 #violet {
-  background-color: blue;
+  border-top-color: blue;
+}
+#red {
+  border-top-color: red;
+}
+#orange {
+  border-top-color: orange
+}
+#yellow {
+  border-top-color: yellow;
+}
+  #green {
+    border-top-color: green;
+  }
+  #indigo {
+    border-top-color: indigo;
+  }
+  
+  }
+    
+  }
 }
